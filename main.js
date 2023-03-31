@@ -1,5 +1,4 @@
 const form = document.getElementById('form-ebac');
-let formValido = false;
 
 form.addEventListener('submit', function(e){
     e.preventDefault();
